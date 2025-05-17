@@ -1,6 +1,3 @@
-# Pre-Entrega-Business-Intelligence-Consulting
-Proyecto del curso de Business Intelligence de Talento Tech, Buenos Aires.
-
 # 📊 Proyecto Business Intelligence - Preentrega
 
 Este repositorio contiene la preentrega del proyecto final del curso de **Business Intelligence**, donde se aplican técnicas de análisis de datos para obtener insights que mejoren la toma de decisiones en una empresa simulada.
